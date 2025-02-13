@@ -1,0 +1,13 @@
+To Encrypt the file
+python3 tasmidransom.py
+-----------
+to Decrypt the file
+python3 tasmudecrypt.py
+----------------
+enter the secret phrase 
+'fuck deeab'
+
+ENJOY!
+
+
+745m1d.sh
