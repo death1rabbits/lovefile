@@ -1,5 +1,10 @@
 git clone --depth=1 https://github.com/death1rabbits/lovefile
+
 cd lovefile
+
+chmod +x tasmidransom.py | chmod +x tasmudecrypt.py
+
+
 "run the tool using python3"
 
 ENJOY!
