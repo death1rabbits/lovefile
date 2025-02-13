@@ -1,0 +1,5 @@
+git clone --depth=1 https://github.com/death1rabbits/lovefile
+cd lovefile
+"run the tool using python3"
+
+ENJOY!
